@@ -24,7 +24,7 @@ RALFqxAbLDEdFfVdgXjPD2Yvk3uqjT4JG8V9yVhrkBAD8jpRjwh4dZmtMxpdHGAn
 The VM needs to have guest-tools installed, and you need to add the shared folder like this:
 ```
 Path:
-\
+/
 Name:
 ROOT
 + Tick "Auto-Mount"
